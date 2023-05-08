@@ -35,6 +35,12 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
           <b>Wukko</b>
         </sub>
       </a>
+      <a href="https://github.com/Bansola">
+        <img src="https://avatars3.githubusercontent.com/u/73796151" width="100px;" alt="Foto do Bansola no GitHub"/><br>
+        <sub>
+          <b>Wukko</b>
+        </sub>
+      </a>
   </tr>
 </table>
 
@@ -47,4 +53,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#MystDown)<br>
