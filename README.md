@@ -24,17 +24,11 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradeço às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/83777687" width="100px;" alt="Foto do Gahtee no GitHub"/><br>
-        <sub>
-          <b>Gahtee</b>
-        </sub>
-      </a>
       <td align="center">
       <a href="#">
         <img src="https://avatars3.githubusercontent.com/u/71202418" width="100px;" alt="Foto do Wukko no GitHub"/><br>
