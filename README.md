@@ -29,7 +29,6 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <td align="center">
       <a href="#">
         <img src="https://avatars3.githubusercontent.com/u/71202418" width="100px;" alt="Foto do Wukko no GitHub"/><br>
         <sub>
