@@ -36,14 +36,6 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
      </td>
-     <td align="center">
-      <a href="https://github.com/Bansola">
-        <img src="https://avatars3.githubusercontent.com/u/73796151" width="100px;" alt="Foto do Bansola no GitHub"/><br>
-        <sub>
-          <b>Bansola</b>
-        </sub>
-      </a>
-     </td>
   </tr>
 </table>
 
